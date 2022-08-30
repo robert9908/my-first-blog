@@ -1,3 +1,4 @@
+from .views import index
 from django.urls import path
 from blog import views
 surlpatterns = [
